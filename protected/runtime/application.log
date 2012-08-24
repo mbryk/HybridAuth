@@ -2620,3 +2620,442 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2012/08/24 20:00:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:00:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:03:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:04:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:04:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:04:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:04:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:05:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:06:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:06:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:07:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:07:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:08:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:08:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:08:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:08:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:08:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:09:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:11:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:10 [error] [php] Undefined variable: user (C:\xampp\htdocs\hybrid\protected\modules\hybridauth\views\default\createUser.php:14)
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(870): DefaultController->renderFile()
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(783): DefaultController->renderPartial()
+#2 C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php(100): DefaultController->render()
+#3 C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php(17): DefaultController->_doLogin()
+#4 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\actions\CInlineAction.php(50): DefaultController->actionLogin()
+#5 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(309): CInlineAction->runWithParams()
+#6 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(287): DefaultController->runAction()
+#7 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(266): DefaultController->runActionWithFilters()
+#8 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(276): DefaultController->run()
+#9 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController()
+#10 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\hybrid\index.php(13): CWebApplication->run()
+REQUEST_URI=/hybridauth/default/login/?provider=facebook
+in C:\xampp\htdocs\hybrid\protected\modules\hybridauth\views\default\createUser.php (14)
+in C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php (100)
+in C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php (17)
+2012/08/24 20:12:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:12:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:13:21 [error] [php] urlencode() expects parameter 1 to be string, object given (C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CUrlManager.php:437)
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CUrlManager.php(324): CUrlManager->createPathInfo()
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CUrlManager.php(307): CUrlManager->createUrlDefault()
+#2 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(524): CUrlManager->createUrl()
+#3 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(968): CWebApplication->createUrl()
+#4 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(1029): DefaultController->createUrl()
+#5 C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php(100): DefaultController->redirect()
+#6 C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php(17): DefaultController->_doLogin()
+#7 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\actions\CInlineAction.php(50): DefaultController->actionLogin()
+#8 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(309): CInlineAction->runWithParams()
+#9 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(287): DefaultController->runAction()
+#10 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CController.php(266): DefaultController->runActionWithFilters()
+#11 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(276): DefaultController->run()
+#12 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController()
+#13 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\hybrid\index.php(13): CWebApplication->run()
+REQUEST_URI=/hybridauth/default/login/?provider=facebook
+in C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php (100)
+in C:\xampp\htdocs\hybrid\protected\modules\hybridauth\controllers\DefaultController.php (17)
+in C:\xampp\htdocs\hybrid\index.php (13)
+2012/08/24 20:13:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:13:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:14:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:14:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:14:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/08/24 20:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\web\CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 C:\xampp\htdocs\hybrid\protected\lib\yiiframework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\hybrid\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

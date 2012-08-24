@@ -46,5 +46,7 @@ $this->breadcrumbs=array(
 	</div>
 
 <?php $this->endWidget(); ?>
-        First Time Here? Register <?php echo CHtml::link('here', 'register') ?>.
+        Are you linked in? Login with <?php $this->widget('application.modules.hybridauth.widgets.renderProviders'); ?>
+        <hr>
+        <p>First Time? Register <?php echo CHtml::link('here', 'register') ?>.</p>
 </div><!-- form -->

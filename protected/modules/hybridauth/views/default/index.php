@@ -1,1 +1,1 @@
-<?php $this->widget('application.modules.hybridauth.widgets.renderProviders', array('linked'=>true)); ?>
+<?php $this->widget('application.modules.hybridauth.widgets.renderProviders'); ?>

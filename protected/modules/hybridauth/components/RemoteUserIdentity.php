@@ -43,6 +43,9 @@ class RemoteUserIdentity extends CBaseUserIdentity {
 			$user = HaLogin::getUser($this->loginProvider, $this->loginProviderIdentifier);
 			
 			if ($user == null) {
+                            //var_dump($this->_adapter->getUserProfile());die;
+                                if(isset($this->_adapter->getUserProfile()->username)) $this->username = $this->_adapter->getUserProfile()->username;
+                                if(isset($this->_adapter->getUserProfile()->email)) $this->email = $this->_adapter->getUserProfile()->email;
 				$this->errorCode = self::ERROR_USERNAME_INVALID;
 			} else {
 				$this->id = $user->id;

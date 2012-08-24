@@ -82,14 +82,15 @@ class DefaultController extends Controller {
 					} // } else { do nothing } => the form will get redisplayed
 				} else {
                                     
-                                    //$ha = Yii::app()->getModule('hybridauth')->getHybridAuth();
-                                    //$facebook = $ha->getAdapter();
-                                    //$facebook->setUserStatus('Hi');
+                                    //var_dump($identity);var_dump($identity->getEmail());
+                                    //$ha = Yii::app()->getModule('hybridauth')->getAdapter();
+                                    //$user = $ha->getUserProfile();
+                                    //var_dump($user);die;
 					//Display the form with some entries prefilled if we have the info.
 					if (isset($identity->email)) {
 						$user->email = $identity->email;
 						$email = explode('@', $user->email);
-						$user->username = $email[0];
+						if(!isset($identity->username)) $user->username = $email[0];
 					}
 				}
 
